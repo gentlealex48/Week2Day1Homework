@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etUsernameInput" type="id" />
+    <item name="etPasswordInput" type="id" />
+    <item name="tvLoginText" type="id" />
+</resources>

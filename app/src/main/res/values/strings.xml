@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Week2Day1Homework</string>
+    <string name="user_name">user name</string>
+    <string name="password">password input</string>
+    <string name="save_user_name">save user name</string>
+    <string name="retrieve_user_name">retrieve user name</string>
+    <string name="insert_into_db">inser into db</string>
+    <string name="retrieve_from_db">retrieve from db</string>
+    <string name="enter_new_user">enter new user</string>
+    <string name="ok">ok</string>
+    <string name="done">done</string>
+    <string name="skype_id">skype_id</string>
+    <string name="email_address">email address</string>
+    <string name="phone_number">phone number</string>
+    <string name="last_name">last name</string>
+    <string name="first_name">first name</string>
+</resources>
